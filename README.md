@@ -17,9 +17,9 @@ Usage
 
 Clone the repository:
 
-```git clone https://github.com/yourusername/discord-tools.git```
+```git clone https://github.com/ZolManStaff/DISqRD.git```
 
-```cd discord-tools```
+```cd DISqRD```
 
 Install the required packages:
 
