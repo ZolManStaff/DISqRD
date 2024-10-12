@@ -14,18 +14,12 @@ Generate Nitro Codes: Create random Discord Nitro gift links.
 Delete All Channels: Remove all channels from a specified server.
 Usage
 Clone the repository:
-bash
-Копировать код
-git clone https://github.com/yourusername/discord-tools.git
-cd discord-tools
+```git clone https://github.com/yourusername/discord-tools.git```
+```cd discord-tools```
 Install the required packages:
-bash
-Копировать код
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 Run the main script:
-bash
-Копировать код
-python main.py
+```python DISqRD.py```
 Disclaimer
 This tool is intended for educational purposes only. Use it responsibly and adhere to Discord's Terms of Service. Misuse of these tools may result in account bans or legal consequences.
 
