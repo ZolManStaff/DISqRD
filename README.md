@@ -1,4 +1,4 @@
-![Cover Image](path/to/your/image.png)
+![Cover Image](https://github.com/ZolManStaff/DISqRD/blob/main/PHOTO.jpg)
 Discord Tools
 This repository contains a set of tools designed for managing Discord servers and accounts. The tools include functionalities for mass messaging, webhook management, status updates, and more, allowing users to automate various tasks within the Discord platform.
 
